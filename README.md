@@ -1,1 +1,1 @@
-victorious-vscode
+Replace files at `~/Library/Application Support/Code/User`

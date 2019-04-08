@@ -1,0 +1,50 @@
+{
+    "workbench.statusBar.feedback.visible": false,
+    "workbench.colorTheme": "Material Theme Palenight High Contrast",
+    "materialTheme.fixIconsRunning": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.sideBar.location": "left",
+    "editor.minimap.enabled": true,
+    "editor.renderWhitespace": "all",
+    "window.zoomLevel": -1,
+    "jshint.options": {
+        "esversion": 6
+    },
+    "materialTheme.autoApplyIcons": false,
+    "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#80CBC4",
+        "list.activeSelectionForeground": "#80CBC4",
+        "list.inactiveSelectionForeground": "#80CBC4",
+        "list.highlightForeground": "#80CBC4",
+        "scrollbarSlider.activeBackground": "#80CBC450",
+        "editorSuggestWidget.highlightForeground": "#80CBC4",
+        "textLink.foreground": "#80CBC4",
+        "progressBar.background": "#80CBC4",
+        "pickerGroup.foreground": "#80CBC4",
+        "tab.activeBorder": "#80CBC4",
+        "notificationLink.foreground": "#80CBC4",
+        "editorWidget.resizeBorder": "#80CBC4",
+        "editorWidget.border": "#80CBC4",
+        "settings.modifiedItemIndicator": "#80CBC4",
+        "settings.headerForeground": "#80CBC4",
+        "panelTitle.activeBorder": "#80CBC4",
+        "breadcrumb.activeSelectionForeground": "#80CBC4",
+        "menu.selectionForeground": "#80CBC4",
+        "menubar.selectionForeground": "#80CBC4"
+    },
+    "materialTheme.accentPrevious": "Graphite",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "cSpell.language": "en",
+    "breadcrumbs.enabled": false,
+    "editor.renderControlCharacters": false,
+    "material-icon-theme.activeIconPack": "react",
+    "material-icon-theme.hidesExplorerArrows": true,
+    "material-icon-theme.folders.color": "#292d3e",
+    "material-icon-theme.opacity": 1,
+    "materialTheme.accent": "Teal",
+    "material-icon-theme.folders.theme": "classic",
+    "cSpell.userWords": [
+        "community",
+        "roadmap"
+    ]
+}
